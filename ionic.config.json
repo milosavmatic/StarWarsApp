@@ -1,5 +1,7 @@
 {
-  "name": "ionicStarWarsApp",
-  "integrations": {},
+  "name": "StarWarsApp",
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
